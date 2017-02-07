@@ -1,0 +1,53 @@
+{
+  "results":
+  [
+    {
+      "bill_id":"hr5929-114",
+      "bill_type":"hr",
+      "chamber":"house",
+      "committee_ids":["HSED"],
+      "congress":114,
+      "cosponsors_count":0,
+      "enacted_as":null,
+      "history":{"active":false,
+        "awaiting_signature":false,
+        "enacted":false,
+        "vetoed":false
+      },
+      "introduced_on":"2016-07-25",
+      "last_action_at":"2016-07-25",
+      "last_version":
+      {
+        "version_code":"ih",
+        "issued_on":"2016-07-25",
+        "version_name":"Introduced in House",
+        "bill_version_id":"hr5929-114-ih",
+        "urls":
+        {
+          "html":"https://www.gpo.gov/fdsys/pkg/BILLS-114hr5929ih/html/BILLS-114hr5929ih.htm",
+          "pdf":"https://www.gpo.gov/fdsys/pkg/BILLS-114hr5929ih/pdf/BILLS-114hr5929ih.pdf",
+          "xml":"https://www.gpo.gov/fdsys/pkg/BILLS-114hr5929ih/xml/BILLS-114hr5929ih.xml"},
+        "pages":2
+      },
+      "last_version_on":"2016-07-25",
+      "last_vote_at":null,
+      "number":5929,
+      "official_title":"To amend the Occupational Safety and Health Act of 1970 to require employers to provide menstrual hygiene products for employees.",
+      "popular_title":null,
+      "related_bill_ids":["hr5915-114"],
+      "short_title":"Menstrual Products for Employees Act",
+      "sponsor":{
+        "first_name":"Grace",
+        "last_name":"Meng",
+        "middle_name":null,
+        "name_suffix":null,
+        "nickname":null,
+        "title":"Rep"
+      },
+      "sponsor_id":"M001188",
+      "urls":{
+        "congress":"http://beta.congress.gov/bill/114th/house-bill/5929",
+        "govtrack":"https://www.govtrack.us/congress/bills/114/hr5929",
+        "opencongress":"https://www.opencongress.org/bill/hr5929-114"},
+      "withdrawn_cosponsors_count":0
+    }],"count":47582,"page":{"count":50,"per_page":50,"page":1}}

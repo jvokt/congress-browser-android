@@ -1,0 +1,35 @@
+{"results":[
+  {
+    "bioguide_id":"D000626",
+    "title":"Rep",
+    "first_name":"Warren",
+    "last_name":"Davidson",
+    "oc_email":null,
+    "chamber":"house",
+    "phone":"202-225-6205",
+    "party":"R",
+
+    "term_start":"2016-06-09",
+    "term_end":"2017-01-03",
+    "office":"1011 Longworth House Office Building",
+    "state_name":"Ohio",
+    "fax":null,
+    "birthday":"1970-03-01",
+
+    "contact_form":null,
+    "crp_id":"N00038767",
+    "district":8,
+    "fec_ids":["H6OH08315"],
+    "gender":"M",
+    "govtrack_id":"412675",
+    "in_office":true,
+    "leadership_role":null,
+    "middle_name":null,
+    "name_suffix":null,
+    "nickname":null,
+    "ocd_id":"ocd-division/country:us/state:oh/cd:8",
+    "state":"OH",
+    "thomas_id":"02296",
+    "votesmart_id":166760,
+    "website":null
+  }],"count":538,"page":{"count":20,"per_page":20,"page":1}}

@@ -1,0 +1,10 @@
+{
+"results":
+[
+{
+"chamber":"senate",
+"committee_id":"SSGA18",
+"name":"Federal Spending Oversight and Emergency Management",
+"parent_committee_id":"SSGA",
+"subcommittee":true
+}],"count":228,"page":{"count":20,"per_page":20,"page":1}}
